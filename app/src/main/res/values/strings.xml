@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Submission Three</string>
+
+    <string name="title">Title</string>
+    <string name="movies">Movies</string>
+    <string name="tvseries">TVSeries</string>
+    <string name="releasedate">Release Date</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="detailmovie">Detail Movie</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc cursus orci ut ipsum tempor varius. Aenean hendrerit cursus velit, quis placerat quam. Nam tincidunt lectus eu ante efficitur, at egestas sapien feugiat. Mauris consectetur turpis molestie magna scelerisque convallis. In neque est, auctor at elit nec, molestie facilisis arcu.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="release_date">Release Date :</string>
+    <string name="score">Score :</string>
+    <string name="buttonfab">buttonFAB</string>
+    <string name="image">Image</string>
+    <string name="judul_film_ini_adalah_sebuah_film_yang_menceritakan_blablabal">Judul Film ini adalah sebuah film yang menceritakan blablabal</string>
+
+</resources>
